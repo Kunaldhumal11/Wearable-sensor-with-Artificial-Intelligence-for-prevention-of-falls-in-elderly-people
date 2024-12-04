@@ -1,7 +1,4 @@
 
-// ॥ श्री गणेशाय नमः ॥
-// ||जय श्री राम ||
-
 #include "Wire.h"
 #include <ESP8266WiFi.h>
 #include <FirebaseESP8266.h>
